@@ -1,13 +1,13 @@
 # ChatBot TCU 
-Nama     : Lifta Annisa Husaina
-Posisi : MSIB Telkom - Full Stack Engineering
-
+<p> Nama     : Lifta Annisa Husaina </p> 
+<p> Posisi : MSIB Telkom - Full Stack Engineering </p> 
+---
 Berikut adalah tampilan dari ChatBot TCU
-Screenshoot : 
+<p>Screenshoot :  </p>
 <img src="output/chatbot-tcu.png">
 
 Video demo : 
-[![Watch the video](output/demo-chatbot-tcu.mkv)
+[![Watch the video] output/demo-chatbot-tcu.mkv
 
 
 # Getting Started with Create React App
